@@ -1,2 +1,2 @@
 # Test1
-My first project
+My first prj. this is my first repository
